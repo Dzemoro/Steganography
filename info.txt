@@ -1,0 +1,1 @@
+Program zapisuje tekst z pliku text.txt na najmniej znaczącym bicie w pliku o nazwie bitmap.bmp. Tekst zapisany na bitmapie można odczytać przyciskiem 'Read' i odczytany tekst zostanie umieszczony w pliku output.txt.
